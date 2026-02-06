@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst and ML enthusiast passionate about research and uncovering how AI “black boxes” turn data into intelligent decisions.
 
-- 🔭 I'm currently working on **I’m currently working on Data Analytics, Machine Learning, and research, with a strong curiosity to understand how AI “black boxes” transform data into intelligent decisions.**
+- I’m currently working on Data Analytics, Machine Learning, and research, with a strong curiosity to understand how AI “black boxes” transform data into intelligent decisions.**
 
 - 🌱 I'm currently learning **AI/ML and DL and Applied Mathematics and Applied Statistics **
 
