@@ -1,35 +1,109 @@
-# Hi 👋, I'm Kushal kant Bind
+<!--
+HOW TO USE THIS FILE:
+1. Create a new GitHub repo named EXACTLY the same as your username (e.g. if your username is "kushal123", repo name = "kushal123").
+2. Put this file in that repo as README.md — GitHub will auto-display it on your profile page.
+3. Replace every [PLACEHOLDER] below with your own info.
+4. Replace the ASCII art block with your own photo converted to ASCII (see instructions at the bottom).
+-->
 
-### Aspiring Data Analyst and ML enthusiast passionate about research and uncovering how AI “black boxes” turn data into intelligent decisions.
+<div align="center">
 
-- I’m currently working on Data Analytics, Machine Learning, and research, with a strong curiosity to understand how AI “black boxes” transform data into intelligent decisions.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 I'm currently learning **AI/ML and DL and Applied Mathematics and Applied Statistics **
+```
+                          ... ...............:::--:----
+......... ..              .............-:...::-=--:----
+::::::-::::::..........:..............=%*:..::-:----===
+::::::::::::::...... ..    . .....-=--*#*==**-:::------
+:......                    ...=+:.:---=====:#-:::---===
+                          :::-*+=-==.....:: +=:-----===
+                      .==.:-------:+:..  ...::--:-=-++=
+      --:.         .:::--::=:..... -:.. .::::::-----==-
+....:-===:....:.::.:::::.. :- ..........:.:::----==-*+=
+. :=*+:...................  .........:..::::::-:---===-
+: =##=..........:----:.   ......:...::::::::-:--====++=
+-::+:.    ..:-=*#%%%%#=.   .....:.....::.::::-----==+==
+++*=    -=++*#%%%%%%%%#=::.....::.....::::::-----==-+*+
++++- .-*#######%%%%%%%%*--:....:::..:.:::---:---====+*+
+====.=*#########****##%%+::--....:..::::::--:---====+++
+:---.=+=---==+=-:::=+*##*-+%#=....:..:.::::--:--==---==
+:..:==+--:::=**++++*#%%%%***#=.....::.:.::::--=-==---=-
+-. .++*#***+*#%####%%%%%%*+#%-....:.:.:::::::----=-=:-+
+-.  :+*###*+=+++**##%%%##+=*+.............:::::---=+=--
+=.  .++**++=:---=+=+###**=:   . ...:-...-...:=--=+==+++
+*:   ::=+-.:-+++++==**+====   .  ...+-.-=..::-==--=+*==
+---::=:.---==-::+*+--=-.:*%-:. .  ..:+.-*-..:-==++==+*+
+:------:...:=-::-=-:..:=#@#-:::-:.. :+-===--=---=++++++
+:-:::-::--::.     ..:=#%@%=:::::.:::::==--:--=++++*+++*
+==-=:.::-=#+---:::-=#%@%%=:::::.......:::::----:::::=++
+++=-=-::=%%#--++=+#@%%%%=:::.............:::::::-=-=+++
+-----::-%%@%=:=+#@%%%@%=.::..........:::::::::::---:.:-
++-.....-%%%%%+=+%@%%@%-::::..:...:::::::::::::::-----==
+:.......-%#%%@%*%@%%%-::::::...::::::::::::.:::--------
+.........*%@@@@%%%%%=::::::..::::::::::::...:--------:.
+```
 
-- 👯 I'm looking to collaborate on **open source or Research internship **
+</td>
+<td width="50%" valign="top">
 
-- 🤝 I'm looking for help with **Designing and making an ML model **
+```
+[YOUR NAME]@github
+--------------------
+OS: [e.g. Human, India]
+Uptime: [e.g. 21 years]
+Host: [e.g. Chandigarh University]
+Kernel: [e.g. B.Sc CS/Stats/Math, Final Year]
+IDE: VS Code, Jupyter
 
-- 💬 Ask me about **Time series **
+Languages.Programming: Python, C++, JavaScript
+Languages.Human: English, Hindi
 
-- 📫 How to reach me **BINDKUSHALKANT@GMAIL.COM**
+Focus: Remote Sensing ML, Indic NLP/TTS,
+       Neural Network Architecture
 
-- ⚡ Fun fact **A mosquito can fly, but a fly can not Mosquito ( source: IG)**
+Contact.Email: [your email]
+Contact.LinkedIn: [your linkedin]
+Contact.GitHub: [your github username]
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Bindkushal/Bindkushal/edit/main/README.md](https://github.com/Bindkushal/Bindkushal/edit/main/README.md)**
+GitHub Stats:
+Repos: [count] | Stars: [count]
+Commits: [count] | Followers: [count]
+```
 
-- 📝 I regularly write articles on **[https://github.com/Bindkushal/Bindkushal/edit/main/README.md](https://github.com/Bindkushal/Bindkushal/edit/main/README.md)**
+</td>
+</tr>
+</table>
 
-- 📄 Know about my experiences **[https://github.com/Bindkushal/Bindkushal/edit/main/README.md](https://github.com/Bindkushal/Bindkushal/edit/main/README.md)**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Bindkushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Bindkushal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bindkushal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bindkushal/" height="30" width="40" /></a>
-<a href="https://fb.com/bindkushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bindkushal" height="30" width="40" /></a>
-<a href="https://instagram.com/Bindkushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bindkushal" height="30" width="40" /></a>
-</p>
+<!-- Live auto-updating stats (replace USERNAME) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+<!-- Badges (edit/remove as needed) -->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 
+</div>
+
+---
+
+<!--
+GENERATING YOUR OWN ASCII ART PHOTO:
+
+Option A — CLI tool (best quality):
+  1. Install: https://github.com/TheZoraiz/ascii-image-converter
+  2. Run: ascii-image-converter yourphoto.jpg --color -W 60
+  3. Copy the plain (non-colored) output into the code block above.
+     Use -C flag output only if your repo README supports colored code blocks
+     (GitHub strips ANSI color, so plain art works best here).
+
+Option B — Website (no install):
+  Use a site like https://asciiart.club or https://www.ascii-art-generator.org,
+  upload your photo, generate, and paste the text output above.
+
+Keep the art narrow (40-70 chars wide) so it doesn't overflow the side-by-side table on GitHub's profile page.
+-->
